@@ -1,0 +1,6 @@
+This is my first text file.
+
+I am changing it after I used git add...
+
+I am changing it after I used git add...
+
