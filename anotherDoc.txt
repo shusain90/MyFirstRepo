@@ -1,3 +1,5 @@
 This is my second text file.
 
 I have added some things here....
+
+I am adding a new method here!!!
